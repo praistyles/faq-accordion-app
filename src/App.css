@@ -1,0 +1,17 @@
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10.4375rem 1.5rem 4rem;
+  background-image: url('./assets/background-pattern-desktop.svg');
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 40rem) {
+  .app-shell {
+    padding-top: 8.875rem;
+    background-image: url('./assets/background-pattern-mobile.svg');
+  }
+}
