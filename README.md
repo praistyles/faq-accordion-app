@@ -2,6 +2,8 @@
 
 A responsive FAQ accordion built with React and Vite.
 
+[View the live site](https://praistyles.github.io/faq-accordion-app/)
+
 ## Features
 
 - Expand and collapse answers with a click or keyboard.
